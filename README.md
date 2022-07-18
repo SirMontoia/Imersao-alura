@@ -1,3 +1,3 @@
 # Imersao-alura
 
-![image](https://user-images.githubusercontent.com/87837073/179632184-33ba7814-7b4b-4297-b137-9eb79063b88e.png)
+![image](https://user-images.githubusercontent.com/87837073/179632988-66c32388-f5ba-439d-86f7-154787f69694.png)
